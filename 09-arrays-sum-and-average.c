@@ -23,13 +23,14 @@
 
 int main(void) {
     int numbers[MAX_NUMBERS];
-    int count = 0;
+        int count = 0;
 
-    // TODO: ask for count and validate it is between 1 and MAX_NUMBERS.
+            // TODO: ask for count and validate it is between 1 and MAX_NUMBERS.
 
-    // TODO: read values into the array using a loop.
+                // TODO: read values into the array using a loop.
 
-    // TODO: compute sum and average, then print them.
+                    // TODO: compute sum and average, then print them.
 
-    return 0;
-}
+                        return 0;
+                        }
+                        
